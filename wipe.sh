@@ -4,7 +4,7 @@
 # Stop when device is full or becomes unmounted.
 
 MOUNTPOINT="/mnt"
-DEVICE="/dev/sdc1"
+DEVICE="/dev/sdd1"
 SOURCE="/dev/urandom"
 #SOURCE="/dev/zero"
 PAUSE="10"
